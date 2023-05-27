@@ -2,7 +2,9 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 
 function Contact (props) {
- console.log(props)
+
+  
+
  return (
    <div className='card'>
      <img
@@ -15,5 +17,7 @@ function Contact (props) {
    </div>
  );
 }
+
+
 
 export default Contact

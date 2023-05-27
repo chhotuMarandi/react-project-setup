@@ -12,8 +12,9 @@ function App () {
      <Contact
        img='https://cdn.pixabay.com/photo/2014/11/30/14/11/cat-551554_1280.jpg'
        name='Mr. Whiskerson'
-       number='7845165542'
+       number={7845165542}
        mail='cat@gmail.com'
+       isPun = {true}
      />
      <Contact
        img='https://cdn.pixabay.com/photo/2015/11/16/14/43/cat-1045782_640.jpg'
